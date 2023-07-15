@@ -1,6 +1,13 @@
-### Hi there 👋
+### 👋 Hello! Welcome to my GitHub Profile 😄
+My name is Usman, I'm an early millennial. I'm a certified UX designer & researcher interested in coding what I design.
+You can view my full profile here:
+<html>
+  <a href="https://usman-ali.notion.site/Hello-I-m-Usman-e301e35b953240bd89ef17bad9662f17?pvs=4"Visit W3Schools"> Syed Usman Ali</a>
+  <br>
+</a>
+</html>
+<!--![Syed-Usman-Ali](https://github.com/u5man-ali/u5man-ali/assets/127815926/653140e9-8992-4a76-be12-28074bcc43dc)
 
-<!--
 **u5man-ali/u5man-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
