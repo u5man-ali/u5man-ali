@@ -1,9 +1,12 @@
 ### 👋 Hello! Welcome to my GitHub Profile 😄
-My name is Usman, I'm an early millennial. I'm a certified UX designer & researcher interested in coding what I design.
+My name is Usman, an early millennial.
+I'm a certified UX designer & researcher interested in coding what I design.
 You can view my full profile here:
 <html>
-  <a href="https://usman-ali.notion.site/Hello-I-m-Usman-e301e35b953240bd89ef17bad9662f17?pvs=4"Visit W3Schools"> Syed Usman Ali</a>
-  <br>
+  <a href="https://usman-ali.notion.site/Hello-I-m-Usman-e301e35b953240bd89ef17bad9662f17?pvs=4">Syed Usman Ali</a><br>
+  <a href="https://www.notion.so/usman-ali/Syed-Usman-Ali-798809233f1e4ccbb0f076c85739acf1?pvs=4">My Resume</a><br>
+  <a href="https://www.linkedin.com/in/u5manali/">LinkedIn</a><br>
+  <a href="https://www.behance.net/u5manali">Behance</a><br>
 </a>
 </html>
 <!--![Syed-Usman-Ali](https://github.com/u5man-ali/u5man-ali/assets/127815926/653140e9-8992-4a76-be12-28074bcc43dc)
