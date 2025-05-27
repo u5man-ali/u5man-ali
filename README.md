@@ -1,6 +1,7 @@
 ### 👋 Hello! Welcome to my GitHub Profile 😄
-My name is Usman, an early millennial.
-I'm a certified UX designer & researcher interested in coding.<br>
+My name is Usman, an early millennial, electronics engineer, designer & researcher.
+I'm interested in coding and deploy my designs in code.<br>
+I'm currently working on DezineCrafts UI kit and implementing the code on my github pages.
 You can view my full profile here:
 <html>
   <a href="https://dezinecrafts.com/portfolio">My Portfolio</a><br>
