@@ -14,9 +14,12 @@ You can view my full profile here:
   <a href="https://www.linkedin.com/in/u5manali/">LinkedIn</a><br>
   <a href="https://www.behance.net/u5manali">Behance</a><br>
 </a>
+<p align="center" dir="auto">
   <a href="https://github.com/u5man-ali">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=u5man-ali&show_icons=true&theme=gotham&count_private=true" style="max-width: 100">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=u5man-ali&langs_count=12&layout=compact&langs_count=8&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" style="max-width: 100;">
+  </a>
+</p>
 </html>
 <!--![Syed-Usman-Ali](https://github.com/u5man-ali/u5man-ali/assets/127815926/653140e9-8992-4a76-be12-28074bcc43dc)
 
